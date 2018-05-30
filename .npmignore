@@ -1,0 +1,10 @@
+.vscode/
+.tscache/
+node_modules/
+src/
+
+npm-debug.log
+tsconfig.json
+tslint.json
+Gruntfile.js
+index.ts

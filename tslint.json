@@ -1,0 +1,40 @@
+{
+    "extends": "tslint-config-airbnb",
+    "rules": {
+        "array-bracket-spacing": [
+            true,
+            "always"
+        ],
+        "max-line-length": [
+            true,
+            120
+        ],
+        "variable-name": [
+            true,
+            "check-format",
+            "allow-pascal-case",
+            "allow-leading-underscore"
+        ],
+        "import-name": false,
+        "semicolon": [
+            true,
+            "always"
+        ],
+        "indent": [
+            true,
+            "tabs"
+        ],
+        "ter-indent": [
+            true,
+            "tab"
+        ],
+        "ter-arrow-parens": [
+            true,
+            "as-needed",
+            {
+                "requireForBlockBody": false
+            }
+        ],
+        "function-name": [false]
+    }
+}

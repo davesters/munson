@@ -1,0 +1,19 @@
+{
+	"compilerOptions": {
+		"emitDecoratorMetadata": true,
+		"experimentalDecorators": true,
+		"target": "es2015",
+		"module": "commonjs",
+		"moduleResolution": "node",
+		"sourceMap": true,
+		"declaration": true,
+		"declarationDir": "types",
+		"outDir": "lib",
+		"removeComments": false
+	},
+	"exclude": [
+		"node_modules",
+		"lib",
+		"types"
+	]
+}

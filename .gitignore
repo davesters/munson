@@ -1,0 +1,5 @@
+.vscode/
+.tscache/
+node_modules/
+lib/
+types/
