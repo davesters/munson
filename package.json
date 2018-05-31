@@ -1,6 +1,6 @@
 {
   "name": "munson",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Don't be up a creek without a paddle. Have the world in the palm of your hand with this mvc framework for nodejs",
   "main": "./lib/index.js",
   "types": "./types/index.d.ts",
