@@ -4,6 +4,11 @@
   "description": "Don't be up a creek without a paddle. Have the world in the palm of your hand with this mvc framework for nodejs",
   "main": "./lib/index.js",
   "types": "./types/index.d.ts",
+  "homepage": "https://github.com/davesters/munson",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/davesters/munson"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 0",
     "build": "grunt build",
