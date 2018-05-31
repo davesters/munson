@@ -5,9 +5,14 @@ node_js:
 before_install:
   - npm i -g makeshift && makeshift -r https://registry.npmjs.org
 
+script:
+  - npm run build
+  - npm run test
+
 deploy:
   provider: npm
   email: davesters81@gmail.com
+  skip_cleanup: true
   api_key: $NPM_TOKEN
   on:
     tags: true
