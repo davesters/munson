@@ -1,5 +1,9 @@
 # Munson
 
+[![NPM version](https://img.shields.io/npm/v/munson.svg)](https://www.npmjs.com/package/munson)
+[![Build Status](https://travis-ci.org/davesters/munson.svg?branch=master)](https://travis-ci.org/davesters/munson)
+[![Conventional Commits](https://img.shields.io/badge/Conventional%20Commits-1.0.0-yellow.svg)](https://conventionalcommits.org)
+
 Don't be up a creek without a paddle. Have the world in the palm of your hand with this MVC type framework for nodejs.
 
 Munson is a Typescript MVC type framework for nodejs built on top of Express. Using fancy things like routing, controllers, decorators, IoC containers, config builders and the like, Munson gives you all the tools you need to spin up quick and easy web applications with some semblence of structure.
@@ -47,7 +51,7 @@ That's it! Now, equipped with this simple example, you have all the tools you ne
 
 Oh, you need more info? Take a look at the Todo MVC example app, or keep reading for more info on all the components.
 
-Todo MVC example app
+[Todo MVC example app](https://github.com/davesters/munson-todo-mvc-example)
 
 ## API Documentation
 
